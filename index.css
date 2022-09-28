@@ -21,7 +21,7 @@ button {
     border-radius: 5%;
     font-weight: bold;
 }
-
+button:hover {background-color: #ebe5eb}
 #delete-btn {
     background: white;
     color: black;
